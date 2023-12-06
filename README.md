@@ -10,6 +10,5 @@ le RGPD
 
 Livrables :
 
-flux de travail
-fichier csv pour les analyses futures
-support de présentation de la démarche de la préparation des données et des graphiques d'analyse.
+Workflow KNIME avec commentaires.
+Fichier .csv avec les données préparées.
